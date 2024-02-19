@@ -1,5 +1,7 @@
 body {
   font-family: arial, sans-serif;
+    background-color: #f9f7fe;
+  font-family: "Roboto", sans-serif;
 }
 
 h1 {
@@ -30,6 +32,12 @@ li {
   margin: 20px auto;
   border-radius: 10px;
   max-width: 600px;
+    background: white;
+  max-width: 600px;
+  margin: 45px auto;
+  box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
+  border-radius: 16px;
+  padding: 30px;
 }
 
 .weather-icon {
